@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDate" type="id"/>
+    <item name="tvTeam1" type="id"/>
+    <item name="tvScore1" type="id"/>
+    <item name="tvScore2" type="id"/>
+    <item name="tvTeam2" type="id"/>
+    <item name="tvFavTeam2" type="id"/>
+    <item name="tvFavScore2" type="id"/>
+    <item name="tvFavScore1" type="id"/>
+    <item name="tvFavTeam1" type="id"/>
+    <item name="tvFavDate" type="id"/>
+</resources>

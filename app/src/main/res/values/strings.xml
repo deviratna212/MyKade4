@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">My Kade</string>
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester United FC</item>
+        <item>Manchester City FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <array name="club_detail">
+        <item>Barcelona FC know simply as Barca. Founded in 1899 by a group of Swiss, English and Catalan footballers
+            led by Joan Gamper
+        </item>
+        <item>Real Madrid Club founded on 6 March 1902 as the Madrid Football Club, the club has traditionallu worn a
+            white home kit since inception.
+        </item>
+        <item>Fußball-Club Bayern München e.V., also known as FC Bayern München, FC Bayern Munich, or FC Bayern, is a
+            sport club in Jerman which based in München, Bavaria.
+        </item>
+        <item>Manchester City Football Club is a profesional football club from England. Founded in 1880 as St. Marks
+            (West COrton).
+        </item>
+        <item>Manchester United Football Club commonly known as Man United, is a profesional football club based in Old
+            Trafford, Greater Manchester, England that competes inthe premiere legue.
+        </item>
+        <item>Chelsea Football Club is a profesional football club in London, England that competes in the Premiere
+            League. Founded in 1905, home ground in Stamford Bridge.
+        </item>
+        <item>Associazione Calcio Milan, commonly known as A.C. Milan or just Milan, is a profesional football club in
+            Italia bases in Milan, Lombardia, that competes in Serie A.
+        </item>
+        <item>Arsenal Football Club is a profesional football club in England based in Holloway district, London.
+            founded in 1886.
+        </item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">FootBall App</string>
+    <string name="title_home">Events</string>
+    <string name="title_dashboard">Favorite</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

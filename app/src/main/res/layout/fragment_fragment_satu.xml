@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             tools:context=".fragment.FragmentSatu"
+             android:padding="10dp">
+
+    <!-- TODO: Update blank fragment layout -->
+
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ProgressBar
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/progress_bar_prev"
+                        android:layout_centerHorizontal="true"/>
+
+                <android.support.v7.widget.RecyclerView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/rvFootballPrev"
+                        android:paddingBottom="8dp">
+
+                </android.support.v7.widget.RecyclerView>
+            </RelativeLayout>
+
+</FrameLayout>
